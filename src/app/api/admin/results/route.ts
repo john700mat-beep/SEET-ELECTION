@@ -16,7 +16,7 @@ export async function GET(req: NextRequest) {
     if (!counts[key]) {
       counts[key] = {
         candidate_id: vote.candidate_id,
-        candidate_name: (vote.candidates as { name: string })?.name ?? 'Unknown',
+        candidate_name: (vote.candidates as unknown as { name: string })?.name ?? 'Unknown',
         position: vote.position,
         vote_count: 0,
       }
