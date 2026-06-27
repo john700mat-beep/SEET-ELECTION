@@ -86,7 +86,7 @@ export const PLACEHOLDER_CANDIDATES: CandidateSeed[] = [
     position: 'Financial Secretary',
     department: 'Civil Engineering',
     level: '400',
-    manifesto: 'I will ensure our association's finances are transparent, auditable, and used for the benefit of all students.',
+    manifesto: 'I will ensure our associations finances are transparent, auditable, and used for the benefit of all students.',
   },
 
   // PRO
