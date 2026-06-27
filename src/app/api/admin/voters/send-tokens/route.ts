@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { supabaseAdmin } from '@/lib/supabaseServer'
+import { supabaseAdmin } from '@/lib/supabase'
 import { isAdminAuthed } from '@/lib/adminAuth'
 
 async function sendSMS(phone: string, message: string) {
