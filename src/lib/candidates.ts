@@ -15,14 +15,14 @@ export const PLACEHOLDER_CANDIDATES: CandidateSeed[] = [
     position: 'President',
     department: 'Civil Engineering',
     level: '400',
-    manifesto: 'I will improve student welfare, create more industry partnerships, and ensure every SEET student has access to the tools they need to succeed.',
+    manifesto: "I will improve student welfare, create more industry partnerships, and ensure every SEET student has access to the tools they need to succeed.",
   },
   {
     name: 'Okafor Chisom',
     position: 'President',
     department: 'Electrical Engineering',
     level: '500',
-    manifesto: 'My vision is a united SEET community with a strong voice, better facilities, and career support for every student.',
+    manifesto: "My vision is a united SEET community with a strong voice, better facilities, and career support for every student.",
   },
 
   // Vice President
@@ -31,7 +31,7 @@ export const PLACEHOLDER_CANDIDATES: CandidateSeed[] = [
     position: 'Vice President',
     department: 'Mechanical Engineering',
     level: '400',
-    manifesto: 'I will work closely with the President to ensure smooth governance and represent your interests at every level.',
+    manifesto: "I will work closely with the President to ensure smooth governance and represent your interests at every level.",
   },
   {
     name: 'Nwosu Emmanuel',
@@ -47,14 +47,14 @@ export const PLACEHOLDER_CANDIDATES: CandidateSeed[] = [
     position: 'Secretary General',
     department: 'Civil Engineering',
     level: '300',
-    manifesto: 'Transparent record-keeping, efficient communication, and organized governance — that is my commitment to SEET.',
+    manifesto: "Transparent record-keeping, efficient communication, and organized governance — that is my commitment to SEET.",
   },
   {
     name: 'Ibrahim Musa',
     position: 'Secretary General',
     department: 'Chemical Engineering',
     level: '400',
-    manifesto: 'I will ensure every meeting, decision, and communication is properly documented and accessible to all students.',
+    manifesto: "I will ensure every meeting, decision, and communication is properly documented and accessible to all students.",
   },
 
   // Assistant Secretary General
@@ -86,7 +86,7 @@ export const PLACEHOLDER_CANDIDATES: CandidateSeed[] = [
     position: 'Financial Secretary',
     department: 'Civil Engineering',
     level: '400',
-    manifesto: 'I will ensure our associations finances are transparent, auditable, and used for the benefit of all students.',
+    manifesto: "I will ensure our association's finances are transparent, auditable, and used for the benefit of all students.",
   },
 
   // PRO
@@ -95,7 +95,7 @@ export const PLACEHOLDER_CANDIDATES: CandidateSeed[] = [
     position: 'PRO',
     department: 'Chemical Engineering',
     level: '300',
-    manifesto: 'I will build SEET's presence online and offline — keeping students informed, engaged, and proud of their school.',
+    manifesto: "I will build SEET's presence online and offline — keeping students informed, engaged, and proud of their school.",
   },
   {
     name: 'Obi Kelechi',
